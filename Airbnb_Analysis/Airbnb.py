@@ -145,7 +145,7 @@ if SELECT == "Explore Data":
 
 if SELECT == "Contact":
     Name = (f'{"Name :"}  {"Madhan"}')
-    mail = (f'{"Mail :"}  {"Madhandevaraj1997@gmail.com"}')
+    mail = (f'{"Mail :"}  {"madhandevaraj1997@gmail.com"}')
     description = "An Aspiring DATA-SCIENTIST..!"
     social_media = {
         "GITHUB": "https://github.com/Madhandevaraj28/Data-Science_Projects"}
